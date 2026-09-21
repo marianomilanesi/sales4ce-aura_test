@@ -335,4 +335,3 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 <p align="center"> <b>Desarrollado con ❤️ para la comunidad de seguridad</b> </p><p align="center"> <i>"Conocimiento es poder, pero el poder conlleva responsabilidad"</i> </p> ```
-🚀 Comandos para Subir a GitHub
